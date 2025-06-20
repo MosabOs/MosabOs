@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI/ML Corporate
 - 🤔 I’m looking for help with advance my SKILLS
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: i'm programmer and Adobe programs user (designer usnig photoshop/illustrator and editting using after effect and premier etc.. )
+
+- 📫 How to reach me: ...
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/test)
+
 -->
